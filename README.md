@@ -1,6 +1,8 @@
 # RISK
 A Python script to calculate winning probabilities in the board game Risk.
 
+![Alt Text](samples/surface.png?raw=True "Probability Surface")
+
 The script outputs a table containing the probabilities of the attacker gaining territory,
 given specific numbers of attackers and defenders involved in a conflict.
 
@@ -19,6 +21,8 @@ Clone from git using: ```git clone https://github.com/HerrHruby/RISK.git```
 
 An example table for conflicts involving up to 20 units on each side is available in the
 samples file. The corresponding probability surface is also available in the same folder.
+
+![Alt Text](samples/table_2020.png?raw=True "Probability Matrix for up to 20 vs. 20")
 
 The main script ```risk.py``` is contained in the ```src``` folder. To run the 
 script, call ```python risk.py``` from the command line.
