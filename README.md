@@ -14,7 +14,7 @@ able to present this data nicely).
 
 # Installation
 
-Clone from git using: ```git clone https://github.com/HerrHruby/RISK.git```
+Clone from git using: ```git clone https://github.com/IanYHWu/RISK.git```
 
 
 # Usage
